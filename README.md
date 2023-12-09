@@ -4,9 +4,12 @@
 <h3 align="center">A Pessionate Web Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil500530&label=Profile%20views&color=0e75b6&style=flat" alt="sushil500530" /> </p>
-<h2 align="left">About me</h2>
 
-- 🌱 I’m currently learning **Nextjs**
+## About me
+<div>
+<img align="right" alt="banner" width="300" src="https://i.ibb.co/N7pSjPF/69e6f674d4ab40834c31493d21d9560c.gif">
+<p align="left">
+ - 🌱 I’m currently learning **Nextjs**
   
 - 📫 How to reach me **sushilhemrom98@gmail.com**
   
@@ -14,6 +17,9 @@
 - 📚 I'm currently learning ...
 - 🎯 Goals: ...
 - 🎲 Fun fact: ...
+</p>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
   <div align="left">
