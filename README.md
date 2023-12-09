@@ -7,13 +7,13 @@
 <h2 align="left">About me</h2>
 
 - 🌱 I’m currently learning **Nextjs**
-
+  
 - 📫 How to reach me **sushilhemrom98@gmail.com**
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+  
+- ✨ Creating bugs since ...
+- 📚 I'm currently learning ...
+- 🎯 Goals: ...
+- 🎲 Fun fact: ...
 
 <h3 align="left">Connect with me:</h3>
   <div align="left">
