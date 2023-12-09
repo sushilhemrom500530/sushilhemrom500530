@@ -21,13 +21,13 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-  <div align="left">
+## Connect with me
+<div align="left">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </div>
-</p>
+
 
 ## What Technology That I Know
 <p align="left" gap="5px">
@@ -50,4 +50,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushil500530&show_icons=true&locale=en" alt="sushil500530" /></p>
 
+## My Project
+
+  #### Inventory Management System
+ ##### live show Project : https://clever-reading.surge.sh
+  #### Summary
+- Here basically the project is made with different types of cars. Here anyone can buy the car of his choice
+- Here anyone can open a shop and buy and sell by adding their products.
+- Something more extra here.......
+
+#### Library Management System
+##### live show Project : https://five-steel.surge.sh
+ #### Summary
+- Cataloging: An LMS allows libraries to catalog their collections, which means adding information about each item, such as the title, author, publisher, and subject. This information can then be used to search for items in the catalog.
+- and other ......
 
