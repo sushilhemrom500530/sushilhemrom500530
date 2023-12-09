@@ -52,16 +52,16 @@
 
 ## My Project
 
-  #### Inventory Management System
- ##### live show Project : https://clever-reading.surge.sh
-  #### Summary
+  ### Inventory Management System
+ #### live show Project : https://clever-reading.surge.sh
+  ### Summary
 - Here basically the project is made with different types of cars. Here anyone can buy the car of his choice
 - Here anyone can open a shop and buy and sell by adding their products.
 - Something more extra here.......
 
-#### Library Management System
-##### live show Project : https://five-steel.surge.sh
- #### Summary
+### Library Management System
+#### live show Project : https://five-steel.surge.sh
+ ### Summary
 - Cataloging: An LMS allows libraries to catalog their collections, which means adding information about each item, such as the title, author, publisher, and subject. This information can then be used to search for items in the catalog.
 - and other ......
 
