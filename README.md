@@ -4,14 +4,23 @@
 <h3 align="center">A Pessionate Web Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil500530&label=Profile%20views&color=0e75b6&style=flat" alt="sushil500530" /> </p>
+<h2 align="left">About me</h2>
 
 - 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **sushilhemrom98@gmail.com**
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ft sunil as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ft sunil as" height="30" width="60" /></a>
+  <div align="left">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </div>
 </p>
 
 ## What Technology That I Know
@@ -28,7 +37,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
 </p>
 
-## Current Stats
+## My Current Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil500530&" alt="sushil500530" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil500530&show_icons=true&locale=en&layout=compact" alt="sushil500530" /></p>
