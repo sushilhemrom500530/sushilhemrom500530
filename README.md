@@ -4,6 +4,7 @@
 <h3 align="center">A Pessionate Web Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil500530&label=Profile%20views&color=0e75b6&style=flat" alt="sushil500530" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil500530&label=Profile%20views&color=0e75b6&style=flat" alt="sushil500530" /> </p>
 
 - 🌱 I’m currently learning **Nextjs**
 
