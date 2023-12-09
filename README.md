@@ -30,6 +30,8 @@
 
 
 ## What Technology That I Know
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil500530&show_icons=true&locale=en&layout=compact" alt="sushil500530" />
+
 <p align="left" gap="5px">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
@@ -45,8 +47,6 @@
 
 ## My Current Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil500530&" alt="sushil500530" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil500530&show_icons=true&locale=en&layout=compact" alt="sushil500530" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushil500530&show_icons=true&locale=en" alt="sushil500530" /></p>
 
