@@ -1,5 +1,5 @@
 
-<img align="center" alt="banner" src="https://i.ibb.co/PhWRkBt/sushil-banner.gif">
+<img align="center" alt="banner" src="https://i.ibb.co/bL8V1B0/sushil-banner-2.gif">
 <h1 align="center">Hi 👋, I'm Sushil Hemrom</h1>
 <p>A Passionate React || Front-End Web Developer with a mission to craft remarkable digital experiences. on the other hand roducing quality product, research, working with expertises is my main objective. i eager to learn and explore new technologis..!</p>
 
