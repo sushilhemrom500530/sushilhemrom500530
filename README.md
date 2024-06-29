@@ -34,12 +34,12 @@
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil500530&show_icons=true&locale=en&layout=compact" alt="sushil500530" />
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,ts,redux,expressjs,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,ts,redux" />
   </a>
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,git,figma,vercel,webstorm" />
+    <img src="https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,firebase,git,figma,vercel,webstorm" />
   </a>
 </p>
 
