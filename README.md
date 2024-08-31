@@ -8,7 +8,7 @@
 
 ## About me
 <div>
-<img align="right" alt="banner" width="300" src="https://i.ibb.co/N7pSjPF/69e6f674d4ab40834c31493d21d9560c.gif">
+ <img align="right" alt="banner" width="300" src="https://i.ibb.co/N7pSjPF/69e6f674d4ab40834c31493d21d9560c.gif">
 <p align="left">
  - 🌱 I’m currently learning **Nextjs**
   
