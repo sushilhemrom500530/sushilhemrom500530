@@ -1,83 +1,153 @@
+# 👋 Hi, I'm Sushil Hemrom
 
-<img align="center" alt="banner" src="https://i.ibb.co/bL8V1B0/sushil-banner-2.gif">
-<h1 align="center">Hi 👋, I'm Sushil Hemrom</h1>
-<p>A Passionate React || Front-End Web Developer with a mission to craft remarkable digital experiences. on the other hand roducing quality product, research, working with expertises is my main objective. i eager to learn and explore new technologis..!</p>
+### Full Stack Developer | Backend-Focused Software Engineer
 
+I build scalable, secure, and maintainable web applications using modern technologies. Passionate about backend engineering, API development, database architecture, cloud infrastructure, and solving real-world problems through software.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil500530&label=Profile%20views&color=0e75b6&style=flat" alt="sushil500530" /> </p>
+📍 Dinajpur, Bangladesh | 📧 sushilhemrom98@gmail.com | 📞 +8801859011700
 
-## About me
-<div>
- <img align="right" alt="banner" width="300" src="https://i.ibb.co/N7pSjPF/69e6f674d4ab40834c31493d21d9560c.gif">
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
- - 🌱 I’m currently learning **SQL Database**
-  
-- 📫 How to reach me **sushilhemrom98@gmail.com**
-  
-- ✨ Creating bugs since ...
-- 📚 I'm currently learning ...
-- 🎯 Goals: ...
-- 🎲 Fun fact: ...
-</p>
-</div>
-
-
-## Connect with me
-<div align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </div>
-
-
-## What Technology That I Know
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilhemrom500530&show_icons=true&locale=en&layout=compact" alt="sushilhemrom500530" />
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,ts,redux" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,firebase,git,figma,vercel,webstorm" />
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
-<!-- <p align="left" gap="5px"> -->
-<!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>  -->
-<!-- </p> -->
+---
 
+## 💼 Professional Experience
 
-<br />
+**Software Development Team, Dhaka** — Full Stack Developer (Backend Focus)  
+`September 2025 – Present`
 
+- Developing production-ready full-stack applications with a focus on backend engineering, API development, and database management.
+- Working with AWS, EC2, PM2, Nginx, Docker, and deployment workflows.
 
-## My Current Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilhemrom500530" alt="sushilhemrom500530" /></p>
+**Code Thinker, Dinajpur** — Front-End Developer  
+`March 2024 – March 2025`
 
+- Developed responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.
+- Focused on reusable components, maintainable code, performance, and collaborative development.
 
+---
 
+## 🛠️ Technical Skills
 
-## My Project
+### Frontend Development
 
-  ### Inventory Management System
- #### live show Project : https://clever-reading.surge.sh
-  ### Summary
-- Here basically the project is made with different types of cars. Here anyone can buy the car of his choice
-- Here anyone can open a shop and buy and sell by adding their products.
-- Something more extra here.......
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,redux,tailwind,bootstrap" />
+</p>
 
-### Library Management System
-#### live show Project : https://library_management.surge.sh
- ### Summary
-- Cataloging: An LMS allows libraries to catalog their collections, which means adding information about each item, such as the title, author, publisher, and subject. This information can then be used to search for items in the catalog.
-- and other ......
+`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Angular.js` `Vue.js` `Redux` `Redux Toolkit` `React Query` `Context API` `Tailwind CSS` `Bootstrap` `Material UI` `Ant Design` `Shadcn UI` `Framer Motion` `Responsive Design` `Component Architecture` `SSR` `SSG`
 
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
+</p>
+
+`Node.js` `Express.js` `NestJS` `PHP` `Laravel` `RESTful API` `GraphQL` `MVC Architecture` `Modular Architecture` `Mongoose` `Prisma ORM` `Sequelize ORM` `JWT Authentication` `Role-Based Access Control (RBAC)` `Cookie-Based Authentication` `OAuth` `Middleware` `Input Validation` `Error Handling` `API Versioning` `Pagination` `Filtering` `Sorting` `File Upload` `WebSocket` `Socket.IO` `Nodemailer`
+
+### Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" />
+</p>
+
+`MongoDB` `Mongoose` `MySQL` `PostgreSQL` `Firebase Firestore` `Prisma` `Sequelize` `Database Modeling` `Schema Design` `Data Validation` `Indexing` `Query Optimization` `Aggregation Pipeline` `Database Relationships` `Transactions` `Redis`
+
+### Authentication & Security
+
+`JWT` `Access & Refresh Tokens` `OAuth 2.0` `Role-Based Access Control` `Password Hashing` `bcrypt` `CORS` `Helmet` `Rate Limiting` `Input Sanitization` `Environment Configuration` `Secure Cookies` `API Security`
+
+### Payment Gateway & Third-Party Integrations
+
+`Stripe` `SSLCommerz` `Azul Payment Gateway` `Payment Intent` `Webhook Integration` `Cloudinary` `AWS SDK` `Firebase Admin SDK` `Google APIs` `Email Integration` `Third-Party REST APIs`
+
+### Cloud Computing & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,cloudflare,linux,bash,vercel,netlify" />
+</p>
+
+`AWS EC2` `AWS S3` `Cloudflare` `Cloudflare R2` `Docker` `Docker Compose` `Nginx` `PM2` `Linux` `Ubuntu Server` `SSH` `tmux` `Vercel` `Netlify` `Application Deployment` `Reverse Proxy` `Process Management` `Environment Management` `Server Configuration`
+
+### Version Control & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman,figma" />
+</p>
+
+`Git` `GitHub` `GitHub Actions` `VS Code` `WebStorm` `Postman` `Figma` `npm` `pnpm` `Swagger / OpenAPI` `Chrome DevTools` `API Testing` `Debugging`
+
+### Software Engineering Practices
+
+`Clean Code` `SOLID Principles` `OOP` `DRY` `KISS` `MVC` `Modular Architecture` `Separation of Concerns` `Design Patterns` `System Design Fundamentals` `Scalable Architecture` `Performance Optimization` `Code Reusability` `Agile Development` `Problem Solving`
+
+### Professional Skills
+
+`Team Collaboration` `Technical Communication` `Project Planning` `Analytical Thinking` `Time Management` `Research & Continuous Learning`
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Health Care Management System
+Full-stack healthcare management and e-commerce platform with role-based access, appointments, prescriptions, products, and payments.
+
+**Stack:** `Next.js` `Node.js` `Express.js` `PostgreSQL` `Ant Design` `Tailwind CSS` `Cloudinary` `Nodemailer` `SSLCommerz`
+
+🔗 [Live Demo](https://health-care-manage-ment.vercel.app/)
+
+### 2. POS & Inventory Management System
+Full-stack business management application for handling inventory, sales, purchases, suppliers, and stock alerts. Team Project — Frontend Developer.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MySQL` `Sequelize` `Tailwind CSS` `Ant Design` `Framer Motion`
+
+🔗 [Live Demo](https://poserp.netlify.app/)
+
+### 3. Furni-Track
+Furniture e-commerce platform featuring role-based dashboards, product management, sales tracking, and secure payments.
+
+**Stack:** `React.js` `Vite` `Firebase` `Stripe` `Tailwind CSS` `React Router` `React Query` `Axios` `Swiper.js` `ApexCharts`
+
+🔗 [Live Demo](https://book-reader-bd20d.web.app/)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushilhemrom500530&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilhemrom500530&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilhemrom500530&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Exploring
+
+`Advanced Backend Engineering` · `System Design` · `NestJS` · `Database Optimization` · `Distributed Systems` · `Cloud Infrastructure` · `DevOps` · `AI Integration`
+
+---
+
+<p align="center">
+  <b>Building reliable software. Solving real-world problems. Learning every day. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushil500530&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
