@@ -11,13 +11,13 @@ Dinajpur, Bangladesh | sushilhemrom98@gmail.com | +8801859011700
 ## Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sushil-hemrom-b39b762b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/sushilhemrom500530/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sushil-portfollio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
