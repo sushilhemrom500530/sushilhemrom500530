@@ -4,11 +4,11 @@
 
 I build scalable, secure, and maintainable web applications using modern technologies. Passionate about backend engineering, API development, database architecture, cloud infrastructure, and solving real-world problems through software.
 
-📍 Dinajpur, Bangladesh | 📧 sushilhemrom98@gmail.com | 📞 +8801859011700
+Dinajpur, Bangladesh | sushilhemrom98@gmail.com | +8801859011700
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL">
@@ -24,7 +24,7 @@ I build scalable, secure, and maintainable web applications using modern technol
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Software Development Team, Dhaka** — Full Stack Developer (Backend Focus)  
 `September 2025 – Present`
@@ -40,7 +40,7 @@ I build scalable, secure, and maintainable web applications using modern technol
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -157,32 +157,32 @@ I build scalable, secure, and maintainable web applications using modern technol
 ![Research & Continuous Learning](https://img.shields.io/badge/Research_&_Continuous_Learning-E67E22?style=for-the-badge)
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Health Care Management System
 Full-stack healthcare management and e-commerce platform with role-based access, appointments, prescriptions, products, and payments.
 
 **Stack:** `Next.js` `Node.js` `Express.js` `PostgreSQL` `Ant Design` `Tailwind CSS` `Cloudinary` `Nodemailer` `SSLCommerz`
 
-🔗 [Live Demo](https://health-care-manage-ment.vercel.app/)
+ [Live Demo](https://health-care-manage-ment.vercel.app/)
 
 ### 2. POS & Inventory Management System
 Full-stack business management application for handling inventory, sales, purchases, suppliers, and stock alerts. Team Project — Frontend Developer.
 
 **Stack:** `React.js` `Node.js` `Express.js` `MySQL` `Sequelize` `Tailwind CSS` `Ant Design` `Framer Motion`
 
-🔗 [Live Demo](https://poserp.netlify.app/)
+ [Live Demo](https://poserp.netlify.app/)
 
 ### 3. Furni-Track
 Furniture e-commerce platform featuring role-based dashboards, product management, sales tracking, and secure payments.
 
 **Stack:** `React.js` `Vite` `Firebase` `Stripe` `Tailwind CSS` `React Router` `React Query` `Axios` `Swiper.js` `ApexCharts`
 
-🔗 [Live Demo](https://book-reader-bd20d.web.app/)
+ [Live Demo](https://book-reader-bd20d.web.app/)
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushilhemrom500530&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
@@ -195,14 +195,14 @@ Furniture e-commerce platform featuring role-based dashboards, product managemen
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 `Advanced Backend Engineering` · `System Design` · `NestJS` · `Database Optimization` · `Distributed Systems` · `Cloud Infrastructure` · `DevOps` · `AI Integration`
 
 ---
 
 <p align="center">
-  <b>Building reliable software. Solving real-world problems. Learning every day. 🚀</b>
+  <b>Building reliable software. Solving real-world problems. Learning every day.</b>
 </p>
 
 <p align="center">
